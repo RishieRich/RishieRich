@@ -47,9 +47,6 @@ MLOps/Tools: Docker, GitHub Actions, CI/CD, Terraform
  Spark/DBT Cloud Architectures across AWS & Azure
  Large Workflow Automation Agents for enterprise teams
 
-(If you want, I can also prepare pinned repo descriptions + README templates.)
-
-
 ## 🌐 Certifications
 
  Databricks: Data Engineer Associate ×2

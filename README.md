@@ -5,7 +5,7 @@
 Turning enterprise complexity into production-ready agentic AI systems, RAG pipelines, and cloud-scale data engineering solutions across pharma, healthcare, and commerce.
 I design and build AI systems that automate real workflows — reliably, explainably, and at scale.
 
----
+[---](https://user-images.githubusercontent.com/32653955/190232403-6277abaa-a669-4ca9-ba65-f862b44391f9.gif)
 
 ## 🧠 What I Do
 

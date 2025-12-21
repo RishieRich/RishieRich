@@ -1,4 +1,4 @@
-🚀 Rishikesh Rajendra Pote (`RishieRich`)
+🚀 Rishikesh Rajendra Pote (`RishieRich`)!
 
 ### Senior AI & Data Engineer | Agentic AI Architect | Cloud & Big Data Specialist
 

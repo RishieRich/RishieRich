@@ -1,76 +1,55 @@
-🚀 Rishikesh Rajendra Pote (`RishieRich`)!
+<h1 align="center">Hi, I’m Rishikesh Pote 👋</h1>
 
-### Senior AI & Data Engineer | Agentic AI Architect | Cloud & Big Data Specialist
+<h3 align="center">
+AI & Data Architect • Agentic AI Engineer • Enterprise Systems Builder
+</h3>
 
-Turning enterprise complexity into production-ready agentic AI systems, RAG pipelines, and cloud-scale data engineering solutions across pharma, healthcare, and commerce.
-I design and build AI systems that automate real workflows — reliably, explainably, and at scale.
+<p align="center">
+I design and ship reliable AI systems for complex, high-value enterprise workflows.
+</p>
 
-https://user-images.githubusercontent.com/32653955/190232403-6277abaa-a669-4ca9-ba65-f862b44391f9.gif
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="620"
+    alt="Developer building software"
+  />
+</p>
 
-## 🧠 What I Do
+## 👨‍💻 About Me
 
-### 🔹 Agentic AI Systems
+I’m an **AI and Data Architect** with hands-on experience designing and delivering production-grade AI, data, and cloud platforms for **Fortune 500 enterprises**.
 
- Multi-agent workflows (LangChain, LangGraph)
- AI Programmer (SDTM → ADaM automation)
- RWD AI (Protocol → PSD Spec, QC Agents)
- LLM-as-Judge, critique loops, tool-driven agents
+My work sits at the intersection of **applied AI and platform engineering**—turning ambiguous business problems into secure, reliable, observable, and scalable systems.
 
-### 🔹 Cloud & Data Engineering
+I work across the full engineering lifecycle:
 
- Databricks, Spark, PySpark, Delta
- DBT ELT (modelling, tests, documentation)
- AWS | Azure | GCP — multi-cloud data platforms
- End-to-end ETL/ELT automation frameworks
+**Problem discovery → Architecture → Prototyping → Evaluation → Production → Outcome ownership**
 
-### 🔹 AI Automation & RAG
+Because much of my enterprise work is confidential, this profile focuses on the reusable engineering patterns, open experiments, and lessons behind those systems—not client-specific implementations.
 
- Enterprise-grade RAG (Azure AI Search, ChromaDB)
- Validation pipelines, chunking strategies
- Prompt engineering, rubric-based evaluation
+## 🧠 What I Build
 
+- **Agentic and multi-agent systems** that reason, use tools, retain context, review outputs, and escalate safely
+- **Enterprise RAG and knowledge systems** grounded in governed organizational data
+- **Evaluation and quality-control systems** using rubrics, critique loops, LLM-as-judge, and human oversight
+- **AI architecture and governance accelerators** for reviewing complex systems against enterprise guardrails
+- **Cloud-scale data and AI platforms** across AWS, Azure, GCP, Databricks, Spark, and modern data stacks
+- **AI-native engineering workflows** using agents, specifications, automation, and continuous evaluation
 
-## 🛠️ Tech Stack
+## 🔬 Current Deep Dives
 
-Languages: Python, SQL, PySpark
-AI/LLM: LangChain, LangGraph, OpenAI, Azure OpenAI, Ollama, Claude, RAG pipelines
-Cloud: AWS (S3, Lambda, Step Functions), Azure (Databricks, Data Lake, AI Search), GCP
-Data Engineering: Spark, DBT, Delta Lake, Airflow
-MLOps/Tools: Docker, GitHub Actions, CI/CD, Terraform
+I’m currently going deeper into the engineering foundations behind modern AI systems:
 
+- Context, harness, loop, and graph engineering
+- Agent memory, knowledge, and long-running workflows
+- MCP, tool protocols, and secure agent integrations
+- LLM evaluation, observability, reliability, and safety
+- AI training, inference, serving, optimization, and quantization
+- Spec-driven development and AI-assisted software engineering
 
-## 📌 Featured Work
+## 🧩 How I Work
 
- AI Programmer — SDTM → ADaM Agentic Automation
- Real-World Data AI — Protocol → PSD Spec + QC Agents
- GenAI ETL Assistants for pharma data platforms
- Spark/DBT Cloud Architectures across AWS & Azure
- Large Workflow Automation Agents for enterprise teams
+I learn by building—experimenting with emerging AI capabilities, applying them to real problems, measuring what works, and turning useful patterns into production-ready systems.
 
-## 🌐 Certifications
-
- Databricks: Data Engineer Associate ×2
- AWS: AI Practitioner, Solutions Architect Associate
-
-## 📫 Reach Me
-
-📧 [rishikeshrpote@gmail.com](mailto:rishikeshrpote@gmail.com)
-🌐 arq-analytics.com
-🔗 LinkedIn: /rishikesh-pote
-💻 GitHub: /RishieRich
-
-## ⚡ Current Focus
-
-Building enterprise-ready agentic architectures for:
-
- Clinical data pipelines
- RWD analytics automation
- Knowledge graph powered AI workflows
- High-accuracy LLM agents with memory + judgment loops
-
-## 🧩 Philosophy
-
-Build real AI that ships, scales, and solves business problems — not demos.
-Systems > Models.
-Reliability > Flashiness.
-Impact > Hype.
+> **Systems over demos. Reliability over flashiness. Measurable impact over hype.**

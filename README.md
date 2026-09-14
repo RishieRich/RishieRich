@@ -2,7 +2,7 @@
 
 # Hi, I’m Rishikesh Pote 👋
 
-### AI & Data Architect • Agentic AI Engineer • Enterprise Systems Builder
+### Senior AI Engineer & AI Architect • Agentic AI Engineer • Enterprise Systems Builder
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+production+AI+for+Fortune+500+programs;Agentic+Systems+%7C+RAG+%7C+Evals+%7C+Governance;Context+%E2%86%92+Harness+%E2%86%92+Loop+%E2%86%92+Graph;Architecture+%E2%86%92+Engineering+%E2%86%92+Production+Ownership"
